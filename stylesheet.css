@@ -1,0 +1,15 @@
+#navbar {
+  background-color: #e08d3c;
+}
+
+#brand {
+  font-weight: 600;
+  font-size: 1.5em;
+  color: #fff;
+  margin-right: 50px;
+}
+
+#navbarLinks {
+  font-weight: 400;
+  color: #fff;
+}
