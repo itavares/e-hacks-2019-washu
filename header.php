@@ -35,7 +35,7 @@
                         <a class="nav-link font-weight-bold" id="download" href="#">Download</a>
                     </li> -->
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About Us</a>
+                        <a class="nav-link" href="about_us.php">About Us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">How It Works</a>
