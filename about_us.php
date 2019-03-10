@@ -70,6 +70,7 @@
                               <h2>
                                   About The Team 
                               </h2>
+                              <hr>
                               <h3>
                                   Dual Degree Students - Washington University in Saint Louis
                               </h3>
@@ -83,7 +84,7 @@
                                 <div class="company-icons-white">
                                     <i class="fa fa-medkit" aria-hidden="true"></i>
                                     <p>
-                                      <p><img src="imgs/ig.PNG" alt="barket" style="width: 150px" id="profile_pic_about_us"></p>
+                                      <p><img src="imgs/ig.PNG" alt="barket" style="width: 140px" id="profile_pic_about_us"></p>
                                         Ighor Tavares 
                                     </p>
                                     <p class="company-icons-subtext hidden-xs">
@@ -105,12 +106,12 @@
                                 <div class="company-icons-white">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                     <p>
-                                      <p><img src="imgs/Pyi.PNG" alt="barket" style="width: 150px" id="profile_pic_about_us"></p>
+                                      <p><img src="imgs/Pyi.PNG" alt="barket" style="width: 130px; height: 150px;" id="profile_pic_about_us"></p>
                                         Pyi Theim Kyaw
                             
                                     </p>
                                     <p class="company-icons-subtext hidden-xs">
-                                        Dual Degree Undegraduate Student
+                                        PTK is from Myanmar (Burma), an aspiring software engineer interested in full-stack development.
                                         <p><a href="index.html"><img src="imgs/lkin.png" alt="" style="width: 30px"></a></p>
 
                                     </p>
@@ -122,11 +123,11 @@
                                 <div class="company-icons-white">
                                     <i class="fa fa-coffee" aria-hidden="true"></i>
                                     <p>
-                                      <p><img src="imgs/vu1.PNG" alt="barket" style="width: 150px" id="profile_pic_about_us"></p>
+                                      <p><img src="imgs/vu1.PNG" alt="barket" style="width: 140px" id="profile_pic_about_us"></p>
                                         Vu hai Minh
                                     </p>
                                     <p class="company-icons-subtext hidden-xs">
-                                        Dual Degree Undegraduate Student
+                                    Minh is an international student from Vietnam. He is currently studying computer science at Washington University in St.Louis. He likes to listen to music and play video games. 
                                         <p><a href="index.html"><img src="imgs/lkin.png" alt="" style="width: 30px" ></a></p>
                                     </p>
                                 </div>
@@ -144,11 +145,11 @@
                                 <div class="company-icons-white">
                                     <i class="fa fa-money" aria-hidden="true"></i>
                                     <p>
-                                      <p><img src="imgs/barket.JPG" alt="barket" style="width: 150px" id="profile_pic_about_us"></p>
+                                      <p><img src="imgs/barket.JPG" alt="barket" style="width: 130px" id="profile_pic_about_us"></p>
                                         Viet Bach Do
                                     </p>
                                     <p class="company-icons-subtext hidden-xs">
-                                        Calls girlfriend stupid.
+                                    Bartek is a professional FIFA player also known as Giga or BaoBao. Also professionally ranked on CSGO as Global Silver Master Elite 4.
                                         <p><a href="index.html"><img src="imgs/lkin.png" alt="" style="width: 30px"></a></p>
                                     </p>
                                 </div>

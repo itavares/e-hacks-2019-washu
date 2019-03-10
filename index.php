@@ -49,7 +49,7 @@
 
 <div class="container my-4" id="section2">
   <div class="row justify-content-md-center">
-    <p class="h3">
+    <p class="h3" id="kumquat-helps">
       KumQuat helps you connect with other college students.
     </p>
   </div>
@@ -58,7 +58,7 @@
     <p class="h5">Looking for a "college twitter" but exclusively for your school?</p>
   </div>
 
-  <div class="row justify-content-md-center">
+  <div class="row justify-content-center">
     <p class="h5">You are at the right place.</p>
   </div>
   
