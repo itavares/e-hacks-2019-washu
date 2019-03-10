@@ -5,11 +5,29 @@
 }
 
 .carousel-img {
-    position: relative;
+    width: 280px;
+    height: 500px;
+    margin: 0 auto;
 }
+
 
 .downloadBtn {
     position: absolute;
     bottom: 0px;
     left: 0px;
 }
+
+.carousel-item p {
+    color: black;
+}
+
+#cyber, #cyber1 {
+    color: white;
+}
+
+#section2 p {
+    text-align: center;
+}
+
+
+

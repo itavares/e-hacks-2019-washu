@@ -4,7 +4,7 @@
 
 <div class="placeholder-index"></div>
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel slide mt-2" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -12,15 +12,27 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="corousel-img d-block w-100" src="https://www.fillmurray.com/600/250" alt="First slide">
-      <button id="downloadBtn" class="btn btn-success">Download</button>
+      <img class="carousel-img d-block" id="eee" src="screenshots/visibleAnon.png" alt="First slide">
+      <div class="carousel-caption d-none d-md-block p-0">
+        <p class="h4">Do you want to connect with other college students?</p>
+        <p>Be visible or anonymous!</p>
+      </div>    
     </div>
     <div class="carousel-item">
-      <img class="corousel-img d-block w-100" src="https://www.fillmurray.com/600/250" alt="Second slide">
+      <img class="carousel-img d-block" src="screenshots/report.png" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block p-0">
+        <p class="h4" id="cyber">Worry about cyberbully?</p>
+        <p class="cyber" id="cyber1">Report any posts.</p>
+      </div> 
     </div>
     <div class="carousel-item">
-      <img class="corousel-img d-block w-100" src="https://www.fillmurray.com/600/250" alt="Third slide">
+      <img class="carousel-img d-block" src="screenshots/navigation.png" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block p-0">
+        <p class="h4">Easy to find!</p>
+        <p>Find your friends!</p>
+      </div> 
     </div>
+   
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -32,16 +44,26 @@
   </a>
 </div>
 
+<hr>
 
 
+<div class="container my-4" id="section2">
+  <div class="row justify-content-md-center">
+    <p class="h3">
+      KumQuat helps you connect with other college students.
+    </p>
+  </div>
 
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis laboriosam excepturi voluptates tenetur, minima itaque quod, quos placeat veniam eos enim fuga et architecto dicta magnam quam, nam officiis est.
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis laboriosam excepturi voluptates tenetur, minima itaque quod, quos placeat veniam eos enim fuga et architecto dicta magnam quam, nam officiis est.
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis laboriosam excepturi voluptates tenetur, minima itaque quod, quos placeat veniam eos enim fuga et architecto dicta magnam quam, nam officiis est.
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis laboriosam excepturi voluptates tenetur, minima itaque quod, quos placeat veniam eos enim fuga et architecto dicta magnam quam, nam officiis est.
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis laboriosam excepturi voluptates tenetur, minima itaque quod, quos placeat veniam eos enim fuga et architecto dicta magnam quam, nam officiis est.
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis laboriosam excepturi voluptates tenetur, minima itaque quod, quos placeat veniam eos enim fuga et architecto dicta magnam quam, nam officiis est.
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis laboriosam excepturi voluptates tenetur, minima itaque quod, quos placeat veniam eos enim fuga et architecto dicta magnam quam, nam officiis est.
+  <div class="row justify-content-md-center">
+    <p class="h5">Looking for a "college twitter" but exclusively for your school?</p>
+  </div>
+
+  <div class="row justify-content-md-center">
+    <p class="h5">You are at the right place.</p>
+  </div>
+  
+
+</div>
 
 
 

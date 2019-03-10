@@ -87,7 +87,7 @@
                                         Ighor Tavares 
                                     </p>
                                     <p class="company-icons-subtext hidden-xs">
-                                        Dual Degree Undegraduate Student
+                                    As an international student from Brazil, Ighor is passionate about programming and design. He is currently pursuing a bachelor’s in computer science and working towards his master’s in computer engineering.
                                         <p><a href="index.html"><img src="imgs/lkin.png" alt="" style="width: 30px"></a></p>
                                     </p>
                                 </div>

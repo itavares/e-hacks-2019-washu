@@ -35,7 +35,7 @@
             </button>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
+                <ul class="navbar-nav mr-auto align-items-center">
                    
                     <li class="nav-item">
                         <a class="nav-link" href="about_us.php">About Us</a>
@@ -48,6 +48,11 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="all_schools.php">Schools</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="https://github.com/itavares/e-hacks-2019-washu" target="_blank">
+                            <button id="downloadBtn" class="btn-sm btn-success mx-3 align-self-center">Download</button>
+                        </a>
                     </li>
               
                 </ul>
