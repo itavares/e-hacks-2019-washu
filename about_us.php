@@ -1,4 +1,5 @@
 <?php include ('header.php'); ?>
+
       <nav class="navbar navbar-expand-lg navbar-light" id="navbar">
         <a class="navbar-brand" id="brand" href="index.html">KumQuat</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -13,7 +14,7 @@
               <a class="nav-link" id="navbarLinks" href="#">Careers</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="navbarLinks" href="aboutus.html">About Us</a>
+              <a class="nav-link" id="navbarLinks" href="about_us.php">About Us</a>
             </li>
           </ul>
         </div>
@@ -23,7 +24,6 @@
 
       <!-- LITTLE SHORT TEXT ABOUT US -->
 
-<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
 <div class="ct-pageWrapper" id="ct-js-wrapper">
                 <section class="company-heading intro-type" id="parallax-one">
@@ -36,14 +36,14 @@
                             </div>
                         </div>
                     </div>
-                    <div class="parallax" id="parallax-cta" style="background-image:url(about_usback.jpg)">
+                    <div class="parallax" id="parallax-cta" style="background-image:url(imgs/about_usback.jpg)">
                         &nbsp;
                     </div>
                 </section>
                 <section class="story-section company-sections ct-u-paddingBoth100 paddingBothHalf noTopMobilePadding" id="section">
                     <div class="container text-center" id="driveUsSlide">
                         <h2>
-                            WHAT DRIVES US
+                            MISSION STATEMENT
                             <!-- DEBUGGING PURPOSES -->
                             <!-- <img src="p3Asset-3.gif" alt="p3Asset-3"> -->
                         </h2>
@@ -56,14 +56,13 @@
                                   &nbsp;
                               </div>
                               <p class="ct-u-size22 ct-u-fontWeight300 marginTop40">
-                                 We are motivated to give a platform to reunite the student body of universities, giving a opportunity to meet
-                                 new people and be involved in schools activities. 
+                                We deliver a social platform for college students to unite, meet new people, and get involved in social activities. 
                               </p><!-- <a class="ct-u-marginTop60 btn btn-solodev-red btn-fullWidth-sm ct-u-size19" href="#">Learn More</a> -->
                           </div>
                         </div>
                     </div>
                 </section>
-                <section class="culture-section company-sections ct-u-paddingBoth100 paddingBothHalf noTopMobilePadding">
+                <section class="culture-section company-sections ct-u-paddingBoth100 paddingBothHalf noTopMobilePadding" style="background-image:url(imgs/usback.JPG)">
                     <div class="container">
                         <div class="d-flex justify-content-center">
 
@@ -75,7 +74,7 @@
                                   Dual Degree Students - Washington University in Saint Louis
                               </h3>
                               <p class="ct-u-size22 ct-u-fontWeight300 ct-u-marginBottom60">
-                                  We are computer science students at Washington University in Saint Louis! 
+                                  Driven, passionate, and aspiring software engineers.
                               </p>
                           </div>
                         </div>
@@ -88,7 +87,7 @@
                                         Ighor Tavares 
                                     </p>
                                     <p class="company-icons-subtext hidden-xs">
-                                        Dual Degree Undegrad's Student
+                                        Dual Degree Undegraduate Student
                                         <p><a href="index.html"><img src="imgs/lkin.png" alt="" style="width: 30px"></a></p>
                                     </p>
                                 </div>
@@ -106,11 +105,12 @@
                                 <div class="company-icons-white">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                     <p>
-                                      <p><img src="imgs/pyi.PNG" alt="barket" style="width: 150px" id="profile_pic_about_us"></p>
-                                        Pyi Theim
+                                      <p><img src="imgs/Pyi.PNG" alt="barket" style="width: 150px" id="profile_pic_about_us"></p>
+                                        Pyi Theim Kyaw
+                            
                                     </p>
                                     <p class="company-icons-subtext hidden-xs">
-                                        Dual Degree Undegrad's Student
+                                        Dual Degree Undegraduate Student
                                         <p><a href="index.html"><img src="imgs/lkin.png" alt="" style="width: 30px"></a></p>
 
                                     </p>
@@ -123,10 +123,10 @@
                                     <i class="fa fa-coffee" aria-hidden="true"></i>
                                     <p>
                                       <p><img src="imgs/vu1.PNG" alt="barket" style="width: 150px" id="profile_pic_about_us"></p>
-                                        Vu hai Ming
+                                        Vu hai Minh
                                     </p>
                                     <p class="company-icons-subtext hidden-xs">
-                                        Dual Degree Undegrad's Student
+                                        Dual Degree Undegraduate Student
                                         <p><a href="index.html"><img src="imgs/lkin.png" alt="" style="width: 30px" ></a></p>
                                     </p>
                                 </div>
@@ -153,7 +153,7 @@
                                     </p>
                                 </div>
                             </div>
-                        </div><a class="ct-u-marginTop60 btn btn-solodev-red-reversed btn-fullWidth-sm ct-u-size19" href="/careers/">Ready to Learn More?</a>
+                        </div><a class="ct-u-marginTop60 btn btn-solodev-red-reversed btn-fullWidth-sm ct-u-size19" href="#">Ready to Learn More?</a>
                     </div>
                 </section>
 

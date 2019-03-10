@@ -12,7 +12,7 @@ a:link {
     text-decoration: none;
 }
 
-a:hover {
+.link-footer:hover {
     color: #e08d3c;
 }
 
@@ -32,11 +32,15 @@ a {
 }
 
 .kumquat-img {
-    width: 15px;
-    height: 15px;
+    width: 20px;
+    height: 20px;
 }
 
 .footer-subheading {
     font-size: 1.1em;
     color: #e08d3c;
+}
+
+#ptk-name {
+    /* margin-left: 3px; */
 }

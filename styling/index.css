@@ -1,0 +1,15 @@
+
+
+.placeholder-index {
+    height: 55px;
+}
+
+.carousel-img {
+    position: relative;
+}
+
+.downloadBtn {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}

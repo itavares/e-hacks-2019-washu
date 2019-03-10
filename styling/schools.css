@@ -5,8 +5,8 @@
 
 .sch-img {
     margin: 1.66%;
-    width: 500px;
-    height: 500px;
+    width: 95%;
+    height: 50%;
 }
 
 .schools{
@@ -20,9 +20,26 @@
 }
 
 .text-in-img {
+    border-radius: 2px;
+    padding: 3px;
+    padding-left: 20px;
+    width: 90%;
+    background-color: rgb(0,0,0,0.3);
+    color: white;
+    font-size: 1.5vmax;
     position: absolute;
-    top: 50%;
+    bottom: 1%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);    
+}
+
+.text-in-img:hover {
+    cursor: pointer;
+    background-color: rgb(255,255, 255, 0.4);
+    color: black;
+}
+
+#schools-header {
+    border-bottom: 2px solid grey;
 }
 
