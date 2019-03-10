@@ -272,3 +272,25 @@ section.clients-home .clients-logos .client-logos-repeater img {
 	width: 250px;
 	height: 150px;
 }
+
+
+div.aaaa{
+    position: relative;
+}
+div.c {
+    position: absolute;
+    right: 0;
+   line-height: 200%;
+
+}
+div.d {
+  line-height: 200%;
+}
+
+#gifani{
+    float: right;
+}
+
+#howthisworks{
+    font-size: 22px;
+}

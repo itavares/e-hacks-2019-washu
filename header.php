@@ -41,7 +41,7 @@
                         <a class="nav-link" href="about_us.php">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">How It Works</a>
+                        <a class="nav-link" href="howthisworks.php">How It Works</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Trending</a>
