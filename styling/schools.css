@@ -1,0 +1,28 @@
+
+.placeholder {
+    height: 80px;
+}
+
+.sch-img {
+    margin: 1.66%;
+    width: 500px;
+    height: 500px;
+}
+
+.schools{
+    width: 100%;
+}
+
+.images {
+    position: relative;
+    width: 50%;
+    height: 100%;
+}
+
+.text-in-img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
