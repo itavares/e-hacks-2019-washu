@@ -47,12 +47,12 @@
                         <a class="nav-link" href="#">Trending</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="schools.php">Schools</a>
+                        <a class="nav-link" href="all_schools.php">Schools</a>
                     </li>
               
                 </ul>
-                <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control mr-sm-2" type="search" placeholder="Find your school . ." aria-label="Search">
+                <form action="schools.php" method="POST" class="form-inline my-2 my-lg-0">
+                    <input id="search" name="search" class="form-control mr-sm-2" type="search" placeholder="Find your school . ." aria-label="Search">
                     <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
                 </form>
             </div>
